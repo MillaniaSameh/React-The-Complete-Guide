@@ -4,6 +4,10 @@
 - npm install 
 - npm run dev 
 
+### Extra packages 
+
+- npm install styled-components 
+
 ### Rules of Hooks 
 
 - must not call React Hooks outside of the component function. 
