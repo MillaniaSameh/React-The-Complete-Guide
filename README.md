@@ -7,9 +7,7 @@
 ### Extra packages 
 
 - npm install styled-components 
-
-- npm install -D tailwindcss postcss autoprefixer 
-- npx tailwindcss init -p 
+- npm install -D tailwindcss postcss autoprefixer -> npx tailwindcss init -p 
 
 ### Rules of Hooks 
 
