@@ -15,7 +15,8 @@
 - must not call React Hooks inside of if statements. 
 - must not call React Hooks inside of nested functions. 
 
-### Notes
+### Notes 
 
-- Prop drilling = passing shared data through multiple components layers even tho most components don't directly need that data (just pass it on to the child component).
-- Component composition = one way to solve prop drilling, the middle component act as a wrapper.
+- Hooks: must be used directly in the root level of the component function. 
+- Prop drilling = passing shared data through multiple components layers even tho most components don't directly need that data (just pass it on to the child component). 
+- Component composition = one way to solve prop drilling, the middle component act as a wrapper. 
