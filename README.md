@@ -28,3 +28,4 @@
 - useCallback: used to avoid recreation of a function. 
 - Prop drilling = passing shared data through multiple components layers even tho most components don't directly need that data (just pass it on to the child component). 
 - Component composition = one way to solve prop drilling, the middle component act as a wrapper. 
+- Don't do side effects (async code) inside reducers. 
