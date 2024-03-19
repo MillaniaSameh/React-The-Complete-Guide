@@ -11,6 +11,7 @@
 - npm install million 
 - npm install redux react-redux 
 - npm install @reduxjs/toolkit 
+- npm install react-router-dom 
 
 ### Rules of Hooks 
 
@@ -30,3 +31,4 @@
 - Component composition = one way to solve prop drilling, the middle component act as a wrapper. 
 - Don't do side effects (async code) inside reducers. 
 - Thunk: is a function that delays an action until later. 
+- Index routes: allows you to define the default route that should be loaded if the parent routes path is active. 
