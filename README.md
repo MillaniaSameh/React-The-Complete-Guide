@@ -32,3 +32,5 @@
 - Don't do side effects (async code) inside reducers. 
 - Thunk: is a function that delays an action until later. 
 - Index routes: allows you to define the default route that should be loaded if the parent routes path is active. 
+- useLoaderData: you can access loaded data with help of useLoaderData in any component on the same level or lower level. 
+- useFetcher: use it if you wanna trigger a loader or an action without actually loading the page, the route to which this action or loader belongs. 
