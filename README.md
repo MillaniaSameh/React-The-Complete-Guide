@@ -12,6 +12,7 @@
 - npm install redux react-redux 
 - npm install @reduxjs/toolkit 
 - npm install react-router-dom 
+- npm install @tanstack/react-query 
 
 ### Rules of Hooks 
 
